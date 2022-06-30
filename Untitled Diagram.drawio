@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T07:57:10.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="T7i9jWCFDNVue_6O8Arb" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T08:22:36.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UXN-Za7PwZxXW_Lkxfab" version="17.1.3" type="github">
   <diagram id="Fy7mLzyw09IvezXOhir0" name="第 1 页">
     <mxGraphModel dx="946" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="20" width="770" height="540" as="geometry" />
+          <mxGeometry x="130" y="20" width="800" height="540" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-2" target="kOqyBD_X5gYaSZ18fSQa-5">
           <mxGeometry relative="1" as="geometry" />
@@ -14,22 +14,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-2" value="环境检查" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="70" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-5" target="kOqyBD_X5gYaSZ18fSQa-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-5" value="通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="140" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-8" target="kOqyBD_X5gYaSZ18fSQa-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-8" value="不通过" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="50" width="60" height="80" as="geometry" />
+          <mxGeometry x="340" y="60" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOqyBD_X5gYaSZ18fSQa-11" value="准备升级" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="80" height="60" as="geometry" />
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-11" target="kOqyBD_X5gYaSZ18fSQa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-11" target="kOqyBD_X5gYaSZ18fSQa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-11" value="准备工作" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="232" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-14" target="kOqyBD_X5gYaSZ18fSQa-17">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-17" value="解决" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-20" target="kOqyBD_X5gYaSZ18fSQa-14">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +61,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOqyBD_X5gYaSZ18fSQa-20" value="未解决" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="80" width="60" height="20" as="geometry" />
+          <mxGeometry x="580" y="70" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-23" value="1.确认有集群sudo权限的用户&lt;br&gt;2.主节点备份 KDE Manager数据库&lt;br&gt;&lt;div&gt;&lt;span&gt;3.每个节点备份ambari.property&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;4.上传新的镜像&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="395" y="226" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-25" target="kOqyBD_X5gYaSZ18fSQa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-25" target="kOqyBD_X5gYaSZ18fSQa-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-25" value="KDE Manager升级" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="330" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-27" target="kOqyBD_X5gYaSZ18fSQa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-27" target="kOqyBD_X5gYaSZ18fSQa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-27" value="yum upgrade ambari-server&amp;nbsp;&lt;br&gt;ambari-server upgrade&lt;br&gt;ambari-agent upgrade" style="whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="395" y="328" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-29" target="kOqyBD_X5gYaSZ18fSQa-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-29" value="失败" style="rhombus;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="324.5" width="80" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kOqyBD_X5gYaSZ18fSQa-31" target="kOqyBD_X5gYaSZ18fSQa-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-31" value="成功" style="rhombus;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="445" y="429" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-33" value="升级成功" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="kOqyBD_X5gYaSZ18fSQa-36" value="回滚" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="329" width="90" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
